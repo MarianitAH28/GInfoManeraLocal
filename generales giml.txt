@@ -11,7 +11,27 @@ git branch -M main
 git remote add origin https://github.com/MarianitAH28/GInfoManeraLocal.git
 git push -u origin main
 
+actualizar un  repositorio existente 
+	git remote add origin https://github.com/MarianitAH28/GInfoManeraLocal.git
+	git branch -M main
+	git push -u origin main
 
-git remote add origin https://github.com/MarianitAH28/GInfoManeraLocal.git
+pasos para actualizar mi repositorio remoto	
+	git add .
+	git commit -m "first commit"
+	git push -u origin main
+	
+-----------------------------------------------------------------
+
+https://github.com/MarianitAH28/S1.GIMUPTexto.git
+
+echo "# S1.GIMUPTexto" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MarianitAH28/S1.GIMUPTexto.git
+git push -u origin master
+
+git remote add origin https://github.com/MarianitAH28/S1.GIMUPTexto.git
 git branch -M main
 git push -u origin main
