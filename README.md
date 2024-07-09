@@ -27,7 +27,7 @@ aplicará una serie de prácticas integradoras que arroje las evidencias y la pr
 
 # Referencias.
 [1] Programa de estudios de la carrera técnica Ofimática.</br>
-Disponible en:https://github.com/miRepositorioGit/Desarrolla-software-con-herramentas-orientadas-a-la-productividad/blob/main/Miscelaneos/programaEstudiosProgramacionAcuerdo090823.pdf </br>
+Disponible en:https://github.com/MarianitAH28/GInfoManeraLocal/blob/master/Ofim%C3%A1tica.pdf </br>
 
 []Organizar la información en tablas. </br>
 Disponible en:https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables </br>
