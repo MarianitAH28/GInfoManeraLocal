@@ -5,6 +5,15 @@ El propósito de este repositorio público, es apoyar al desarrollo de las compe
 del uso de procesadores de textos, hojas de cálculo y presentaciones electrónicas que permita aplicar soluciones a problemas simples en contextos conocidos y específicos.
 	
 # Submodulos:
+El modulo II de la carrera Técnico en Ofimática se divide en 3 submódulos que presentamos a continuación:
+</br>
+| Submódulo | Horas |
+| :---: | :--- |
+| [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
+| [todoEnUno_M2](https://github.com/miRepositorioGit/todoEnUno_M2.git) |Muestra la convivencia de tres capas de una arquitectura codificadas con dos diferentes tecnologías de lenguaje |
+| [getURL](https://github.com/miRepositorioGit/getURL.git) | Muestra como direccionar y desglozar una petición URL. Muestra como pre-procesar una petición con scripts .htaccess |
+</br>
+
 </br>
 | SUBMÓDULO | HORAS |
 | :---: | :--- |
