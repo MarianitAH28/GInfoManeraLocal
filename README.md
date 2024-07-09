@@ -15,34 +15,18 @@ El módulo II de la carrera Técnico en Ofimática se divide en 3 submódulos qu
 </br>
 
 
-# Proceso para la formación. 
-Este  proceso se lleva a cabo con el enfoque de competencias laborales, que desarrollan en el estudiantado 
-una experiencia relevante y flexible, que mejore su comprensión y aplicación en su capacidad de diseñar, codificar e implementar 
-software de sistemas informáticos [1]. 
+# Estrategias de evaluación del aprendizaje
+La evaluación se realiza con el propósito de evidenciar, en la formación del estudiante, el desarrollo de las competencias profesionales y
+genéricas de manera integral mediante un proceso continuo y dinámico, creando las condiciones en las que se aplican y articulan ambas
+competencias en distintos espacios de aprendizaje y desempeño profesional En el contexto de la evaluación por competencias es
+necesario recuperar las evidencias de desempeño con diversos instrumentos de evaluación, como la guía de observación, bitácoras y
+registros anecdóticos, entre otros Las evidencias por producto, con carpetas de trabajos, reportes, bitácoras y listas de cotejo, entre otras
+Y las evidencias de conocimientos, con cuestionarios, resúmenes, mapas mentales y cuadros sinópticos, entre otras Para lo cual se
+aplicará una serie de prácticas integradoras que arroje las evidencias y la presentación del portafolio [1]. 
  
 
-# Enfoque basado en competencia laboral básica. 
-Este planteamiento hace referencia a los aprendizajes clave esperados de conocimientos (saber), habilidades (saber hacer) y actitudes (saber ser)
-contenidos en la **Actividad clave** _Codifica aplicaciones con frameworks de desarrollo_ reflejados en el **Desarrollo de la competencia** 
-"Codifica los distintos componentes de la aplicación, considerando el diseño del proyecto, los modelos de 
-datos, controladores, vistas y lógica de negocio; empleando un pensamiento lógico y matemático,
-siguiendo convenciones del lenguaje de programación  de código abierto interpretado del lado del servidor,  documentando el código fuente, 
-y haciendo uso de un sistema de control de versiones distribuido de información, trabajando en forma creativa y 
-autónoma o colaborativa"; saberes y actitudes pertenecientes al **Módulo II** _Desarrolla software con herramientas orientadas a la productividad_, 
-para lograr que el estudiante sea capaz de _Emplear framewoks con herramientas orientadas a la productividad_ [1].
-
-Por lo cual, se presenta el siguiente orden de proyectos:
-</br>
-| Proyecto | Descripción |
-| :---: | :--- |
-| [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
-| [todoEnUno_M2](https://github.com/miRepositorioGit/todoEnUno_M2.git) |Muestra la convivencia de tres capas de una arquitectura codificadas con dos diferentes tecnologías de lenguaje |
-| [getURL](https://github.com/miRepositorioGit/getURL.git) | Muestra como direccionar y desglozar una petición URL. Muestra como pre-procesar una petición con scripts .htaccess |
-</br>
-
 # Referencias.
-[1] Módulo II Desarrolla software con herramientas orientadas a la productividad.</br>
-Submódulo 1. Emplea frameworks para el desarrollo de software. </br>
+[1] Programa de estudios de la carrera técnica Ofimática.</br>
 Disponible en:https://github.com/miRepositorioGit/Desarrolla-software-con-herramentas-orientadas-a-la-productividad/blob/main/Miscelaneos/programaEstudiosProgramacionAcuerdo090823.pdf </br>
 
 []Organizar la información en tablas. </br>
