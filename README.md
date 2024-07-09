@@ -9,7 +9,7 @@ El módulo II de la carrera Técnico en Ofimática se divide en 3 submódulos qu
 </br>
 | Submódulo | Horas |
 | :---: | :--- |
-| [Submódulo 1. Gestiona información mediante el uso de procesadores de texto] |(https://github.com/miRepositorioGit/tresCapasPhp)| 96 Horas |
+| [Submódulo 1. Gestiona información mediante el uso de procesadores de texto](https://github.com/miRepositorioGit/tresCapasPhp)| 96 Horas |
 | [Submódulo 2. Gestiona información mediante el uso de hojas de cálculo](https://github.com/miRepositorioGit/todoEnUno_M2.git) |112 Horas |
 | [Submódulo 3: Gestiona información mediante el uso de software de presentaciones](https://github.com/miRepositorioGit/getURL.git) | 64 Horas |
 </br>
