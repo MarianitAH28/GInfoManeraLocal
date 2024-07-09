@@ -7,17 +7,17 @@ del uso de procesadores de textos, hojas de cálculo y presentaciones electróni
 # Submodulos:
 El modulo II de la carrera Técnico en Ofimática se divide en 3 submódulos que presentamos a continuación:
 </br>
-| Submódulo | Horas |
-| :---: | :--- |
-| [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
+| Submódulo | Nombre | | Horas |
+| :---: | | :---: | :--- |
+| [Submódulo 1.] | | [Gestiona información mediante el uso de procesadores de texto] |(https://github.com/miRepositorioGit/tresCapasPhp)| 96 Horas |
 | [todoEnUno_M2](https://github.com/miRepositorioGit/todoEnUno_M2.git) |Muestra la convivencia de tres capas de una arquitectura codificadas con dos diferentes tecnologías de lenguaje |
 | [getURL](https://github.com/miRepositorioGit/getURL.git) | Muestra como direccionar y desglozar una petición URL. Muestra como pre-procesar una petición con scripts .htaccess |
 </br>
 
 </br>
-| SUBMÓDULO | HORAS |
+| SUBMÓDULO | NOMBRES | | HORAS |
 | :---: | :--- |
-| [Submódulo 1. Gestiona información mediante el uso de procesadores de texto] | 96 Horas |
+| [Submódulo 1.] Gestiona información mediante el uso de procesadores de texto] | 96 Horas |
 | [Submódulo 2. Gestiona información mediante el uso de hojas de cálculo] | 112 Horas |
 | [Submódulo 3: Gestiona información mediante el uso de software de presentaciones] | 64 Horas |
 </br>
