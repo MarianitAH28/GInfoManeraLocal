@@ -19,26 +19,26 @@ del uso de procesadores de textos, hojas de cálculo y presentaciones electróni
 		- Insertando tablas, imágenes y otros elementos
 		- Generando plantillas y grabando macros
 
-**Submódulo 2.Gestiona Información Mediante el Uso de hojas de cálculo**\
+**Submódulo 2.Gestiona Información Mediante el Uso de hojas de cálculo**
     
-	Competencia profesional 1. Elabora libros de hojas de cálculo\
-		- Administrando libros de trabajo.\
-		- Organizando datos en tablas.\
-		- Identificando, ordenando e interpretando datos\
-		- Utilizando fórmulas y funciones\
+	Competencia profesional 1. Elabora libros de hojas de cálculo
+		- Administrando libros de trabajo.
+		- Organizando datos en tablas.
+		- Identificando, ordenando e interpretando datos
+		- Utilizando fórmulas y funciones
 		- Utilizando difreentes procesadores de hojas de cálculo.
 	
-	Competencia profesional 2. Aplica formato avanzado a libros de hojas de cálculo\
-		- Generando funciones\
-		- Organizando datos en tablas dinámicas\
-		- Realizando análisis de datos con gráficos\
-		- Utilizando herramientas de análisis\
+	Competencia profesional 2. Aplica formato avanzado a libros de hojas de cálculo
+		- Generando funciones
+		- Organizando datos en tablas dinámicas
+		- Realizando análisis de datos con gráficos
+		- Utilizando herramientas de análisis
 		- Generando macros, satisfaciendo necesidades del cliente.
 
-**Submódulo 3.Gestiona Información Mediante el Uso de Software de presentaciones**\
+**Submódulo 3.Gestiona Información Mediante el Uso de Software de presentaciones**
     
-	Competencia profesional 1. Elabora documentos de presentación\
-		- Planificando la presentación para comunicar, procesar e interpretar información\
+	Competencia profesional 1. Elabora documentos de presentación
+		- Planificando la presentación para comunicar, procesar e interpretar información
 		- Incluyendo objetos como tablas, gráficos, texto y sonidos
 		- Aplicando formato a objetos
 		- Expresando sus ideas teniendo en cuenta las características de su(s) interlocutor(es)
