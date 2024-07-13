@@ -7,8 +7,9 @@ del uso de procesadores de textos, hojas de cálculo y presentaciones electróni
 
 # SUBMÓDULOS
 
-**Submódulo 1.Gestiona Información Mediante el Uso de Procesadores de Texto**
-    Competencia profesional 1. Elabora documentos de texto\
+**Submódulo 1.Gestiona Información Mediante el Uso de Procesadores de Texto**\
+    
+	Competencia profesional 1. Elabora documentos de texto\
 		- Considerando especificaciones e instrucciones del cliente.\
 		- Utilizando diferentes procesadores de texto.\
 		- Generando información y expresando ideas.
@@ -18,8 +19,9 @@ del uso de procesadores de textos, hojas de cálculo y presentaciones electróni
 		- Insertando tablas, imágenes y otros elementos\
 		- Generando plantillas y grabando macros
 
-**Submódulo 2.Gestiona Información Mediante el Uso de hojas de cálculo**
-    Competencia profesional 1. Elabora libros de hojas de cálculo\
+**Submódulo 2.Gestiona Información Mediante el Uso de hojas de cálculo**\
+    
+	Competencia profesional 1. Elabora libros de hojas de cálculo\
 		- Administrando libros de trabajo.\
 		- Organizando datos en tablas.\
 		- Identificando, ordenando e interpretando datos\
@@ -34,7 +36,8 @@ del uso de procesadores de textos, hojas de cálculo y presentaciones electróni
 		- Generando macros, satisfaciendo necesidades del cliente.
 
 **Submódulo 3.Gestiona Información Mediante el Uso de Software de presentaciones**\
-    Competencia profesional 1. Elabora documentos de presentación\
+    
+	Competencia profesional 1. Elabora documentos de presentación\
 		- Planificando la presentación para comunicar, procesar e interpretar información\
 		- Incluyendo objetos como tablas, gráficos, texto y sonidos
 		- Aplicando formato a objetos
