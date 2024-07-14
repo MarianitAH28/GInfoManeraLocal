@@ -1,7 +1,7 @@
 # Directiva 
 #		RewriteBase especifica el prefijo de URL que se utilizará para las directivas 
 #                 RewriteRule que sustituyen una ruta relativa.
-# 		RewriteBase /ProyectosCb47/getURL/public
+# 		RewriteBase /proyectos/GInfoManeraLocal-master/public
 # Directiva 
 #		RewriteCond define una condición de regla, 
 #       
@@ -22,7 +22,7 @@
 Options -Multiviews
 RewriteEngine On # controla habilitación del script
 
-RewriteBase /proyectos/getURL/public
+RewriteBase /proyectos/GInfoManeraLocal-master/public
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^(.+)$ index.php?url=$1 [QSA,L]

@@ -22,7 +22,7 @@
 # 	donde:  ^(.*)   -condición- existe una expresión regular con cualquier número de caractetes, entonces 
 #         public/$1 -acción- redirige a la implementación que se encuentra en la carpeta public, con el conjunto 
 #                    elementos posteriores a la raiz dela servidor.
-#         http://localhost/proyectosCb47/getURL/controlador/metodo/arg/
+#         http://localhost/proyectos/GInfoManeraLocal-master/controlador/metodo/arg/
 #         |        raíz del servidor          ||    1     ||  2  || 3 |... 
 #
 #Referencia: 
