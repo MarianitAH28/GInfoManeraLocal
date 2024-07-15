@@ -54,9 +54,9 @@ Actividades propuestas por submódulos:
 </br>
 | Submódulo | Horas |
 | :---: | :--- |
-| [Submódulo 1. Gestiona información mediante el uso de procesadores de texto](https://github.com/MarianitAH28/S1.GIMUPTexto.git)| 96 Horas |
+| Submódulo 1. Gestiona información mediante el uso de procesadores de texto| 96 Horas |
 | [Submódulo 2. Gestiona información mediante el uso de hojas de cálculo](https://github.com/MarianitAH28/S2HojaDeCalculo.git) |112 Horas |
-| [Submódulo 3: Gestiona información mediante el uso de software de presentaciones] | 64 Horas |
+| Submódulo 3: Gestiona información mediante el uso de software de presentaciones | 64 Horas |
 </br>
 
 # Estrategias de evaluación del aprendizaje
